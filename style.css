@@ -1,0 +1,19 @@
+.nav{
+    text-align:center
+}
+.nav li{
+    display: inline;
+    list-style-type:none;
+}
+.nav img{
+    height: 100;
+    width: 45%;
+    object-fit: cover;
+}
+.sanpo{
+    text-align:center;
+}
+.nav img{
+  width:350px;
+  height:auto;
+}
