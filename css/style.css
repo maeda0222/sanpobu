@@ -17,3 +17,12 @@
   width:350px;
   height:auto;
 }
+.sanpo li{
+    list-style-type: none;
+}
+.wan{
+    text-align: right;
+}
+.wan li{
+    list-style: none;
+}
